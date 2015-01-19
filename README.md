@@ -1,3 +1,8 @@
+# status
+
+- [x] [Open issue](https://github.com/ftilmann/latexdiff/issues/8#)
+- [x] [Fix](https://github.com/ftilmann/latexdiff/commit/dce7a4cb929c9748bf6bd5b9b5e09245c039eecb)
+
 # latexdiff-subfigure-tikzpicture-issue
 
 An example of the trouble I ran into when using [latexdiff](https://github.com/ftilmann/latexdiff) in a document having sub-figures out of `tikzpicture`s
